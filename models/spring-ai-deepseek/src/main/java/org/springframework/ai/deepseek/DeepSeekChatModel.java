@@ -76,7 +76,7 @@ import org.springframework.util.CollectionUtils;
  * backed by {@link DeepSeekApi}.
  *
  * @author Geng Rong
- * @last Updated By : Kuntal Maity
+ * @author Kuntal Maity
  */
 public class DeepSeekChatModel implements ChatModel {
 
